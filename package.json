@@ -24,6 +24,7 @@
 	},
 	"homepage": "https://github.com/kennarddh/notes-app-back-end-dicoding#readme",
 	"devDependencies": {
+		"eslint": "^8.17.0",
 		"nodemon": "^2.0.16"
 	}
 }
