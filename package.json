@@ -4,7 +4,7 @@
 	"description": "Notes app back end dicoding",
 	"main": "index.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "nodemon server.js"
 	},
 	"repository": {
 		"type": "git",
