@@ -9,12 +9,6 @@
 		"ecmaVersion": "latest"
 	},
 	"rules": {
-		"prettier/prettier": [
-			"warn",
-			{
-				"endOfLine": "lf"
-			}
-		],
 		"linebreak-style": ["error", "unix"],
 		"quotes": ["off"],
 		"semi": ["error", "never"],
