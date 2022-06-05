@@ -12,6 +12,8 @@
 		"linebreak-style": ["error", "unix"],
 		"quotes": ["off"],
 		"semi": ["error", "never"],
-		"no-case-declarations": "off"
+		"no-case-declarations": "off",
+		"indent": ["warn", "tab"],
+		"no-tabs": "off"
 	}
 }
