@@ -22,5 +22,8 @@
 	"bugs": {
 		"url": "https://github.com/kennarddh/notes-app-back-end-dicoding/issues"
 	},
-	"homepage": "https://github.com/kennarddh/notes-app-back-end-dicoding#readme"
+	"homepage": "https://github.com/kennarddh/notes-app-back-end-dicoding#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	}
 }
