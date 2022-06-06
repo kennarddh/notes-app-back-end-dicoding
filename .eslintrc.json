@@ -14,6 +14,7 @@
 		"semi": ["error", "never"],
 		"no-case-declarations": "off",
 		"indent": ["warn", "tab"],
-		"no-tabs": "off"
+		"no-tabs": "off",
+		"arrow-parens": "off"
 	}
 }
